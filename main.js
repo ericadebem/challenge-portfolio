@@ -16,3 +16,4 @@ let main = document.querySelector('.main');
 navigation.classList.remove('active');
 main.classList.remove('active');
 }
+
